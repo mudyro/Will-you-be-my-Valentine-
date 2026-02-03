@@ -54,16 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Napewno?",
+    "Ale na 100%??",
+    "Przemyśl to jeszcze raz",
+    "No weź",
+    "Nie no nie rób se jaj",
+    "W takim razie oddawaj grzałkę",
+    "No proszę",
+    "Tak, ale na czerwono",
+    ":(("
 ];
 
 let messageIndex = 0;
